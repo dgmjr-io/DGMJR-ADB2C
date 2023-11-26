@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <Title>Active Directory B2C Identity Test</Title>
+  </PropertyGroup>
+</Project>
