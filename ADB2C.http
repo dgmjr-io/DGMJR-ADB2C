@@ -1,0 +1,6 @@
+@ADB2C_HostAddress = http://localhost:5288
+
+GET {{ADB2C_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
